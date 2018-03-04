@@ -42,5 +42,6 @@
     "start_url": "index.html",
     "background_color": "#2196F3",
     "display": "standalone",
-    "orientation": "landscape"
+    "orientation": "landscape",
+    "theme-color":"#222"
 }
